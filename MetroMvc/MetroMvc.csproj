@@ -76,110 +76,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\fonts\Roboto License.txt" />
-    <Content Include="Content\metro\bootstrap.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>bootstrap.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap.min.css">
-      <DependentUpon>bootstrap.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\layouts.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>layouts.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\layouts.min.css">
-      <DependentUpon>layouts.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\mixins.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>mixins.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\mixins.min.css">
-      <DependentUpon>mixins.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\progress-bars.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>progress-bars.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\progress-bars.min.css">
-      <DependentUpon>progress-bars.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\reset.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>reset.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\reset.min.css">
-      <DependentUpon>reset.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\utilities.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>utilities.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\utilities.min.css">
-      <DependentUpon>utilities.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\variables.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>variables.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\bootstrap\variables.min.css">
-      <DependentUpon>variables.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\colours.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>colours.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\colours.min.css">
-      <DependentUpon>colours.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\metro.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>metro.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\metro.min.css">
-      <DependentUpon>metro.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\mvc.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>mvc.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\mvc.min.css">
-      <DependentUpon>mvc.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\tiles.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>tiles.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\tiles.min.css">
-      <DependentUpon>tiles.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\type.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>type.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\type.min.css">
-      <DependentUpon>type.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\variables.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>variables.less</DependentUpon>
-    </Content>
-    <Content Include="Content\metro\variables.min.css">
-      <DependentUpon>variables.less</DependentUpon>
-    </Content>
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
@@ -217,55 +113,42 @@
     <None Include="Content\fonts\Roboto-Regular-webfont.ttf" />
     <None Include="Content\fonts\Roboto-Regular-webfont.woff" />
     <None Include="Content\metro\bootstrap.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>bootstrap.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\layouts.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>layouts.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\mixins.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>mixins.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\progress-bars.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>progress-bars.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\reset.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>reset.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\utilities.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>utilities.css</LastGenOutput>
     </None>
     <None Include="Content\metro\bootstrap\variables.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>variables.css</LastGenOutput>
     </None>
     <None Include="Content\metro\colours.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>colours.css</LastGenOutput>
     </None>
     <None Include="Content\metro\metro.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>metro.css</LastGenOutput>
     </None>
     <None Include="Content\metro\mvc.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>mvc.css</LastGenOutput>
     </None>
     <None Include="Content\metro\tiles.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>tiles.css</LastGenOutput>
     </None>
     <None Include="Content\metro\type.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>type.css</LastGenOutput>
     </None>
     <None Include="Content\metro\variables.less">
-      <Generator>LessGenerator</Generator>
       <LastGenOutput>variables.css</LastGenOutput>
     </None>
     <Content Include="Views\Headers\Index.cshtml" />
