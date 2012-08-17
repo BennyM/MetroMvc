@@ -2,4 +2,4 @@ This is an MVC example project that extends the <a href="http://code52.org/metro
 credit for everything here.  I just added a few extra styles to mesh with .NET MVC scaffolded forms and views.  Due to browser incompatibility, I removed the javascript
 files from the code 52 project.  You can easily add them back in if you'd like.
 
-.less stylesheets are compiled with dotLess
+.less stylesheets are compiled with <a href="https://github.com/dotless/dotless/" target="_blank">dotless</a>.
